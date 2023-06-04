@@ -1135,10 +1135,6 @@ body {
     margin-left: 2px;
   }
 
-  .article-trend:nth-child(even) {
-    margin-left: 0;
-  }
-
   .trend-title {
     font-size: 20px;
   }
